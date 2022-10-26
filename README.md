@@ -6,6 +6,7 @@
 - 📫 Feel free to reach me at: longhuynh5555@gmail.com
 
 ## Skills
+JSConf.EU (#E2007A and #FFFFFF) - [http://jsconf.eu](http://jsconf.eu)
 <!---
 kuzjt93/kuzjt93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
