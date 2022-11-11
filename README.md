@@ -1,6 +1,6 @@
 # Hello
 - 👋 Hi, I’m @Long Huynh.
-- 👀 I’m interested in Javascript, React, Express, and PostgreSQL.
+- 👀 I’m interested in Javascript, Typescript, React, Express, SQL, and PostgreSQL...etc
 - 🌱 I’m currently learning TypeScript.
 - 💞️ I’m looking for a first Entry Developer job.
 - 📫 Feel free to reach me at: longhuynh5555@gmail.com
