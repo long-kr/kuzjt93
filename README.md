@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Long Huynh.
 - 👀 I’m interested in Javascript, Typescript, React, Node.js, Express, SQL, and PostgreSQL...etc
 - 🌱 I’m currently learning TypeScript.
-- 💞️ I’m looking for a first Entry Developer job.
+- 💞️ I’m looking for a first Entry Level Developer job.
 - 📫 Feel free to reach me at: longhuynh5555@gmail.com
 
 ![https://github.com/kuzjt93/](https://user-images.githubusercontent.com/57731304/197961815-eb758eb1-e770-4622-9b46-efa5e682e246.svg)
