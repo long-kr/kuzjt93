@@ -1,7 +1,7 @@
 # Hello
 - 👋 Hi, I’m @Long Huynh.
 - 👀 I’m interested in Python, Javascript, Typescript, React, Node.js, Express, Mongo, SQL, and PostgreSQL ...etc
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking for a team where I can make impacts and contributions.
 - 📫 Feel free to reach me at: longhuynh5555@gmail.com
 
